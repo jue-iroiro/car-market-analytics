@@ -9,6 +9,7 @@ They can highlight and unhighlight cars across all pages. The highlighted car li
 They can view some chart concerning the cars (chart.js is used here).
 Pages are routed using react-router-dom.
 Here are a few screenshots showing functionalities of the webpages.
+You can take a look at the website at https://jue-iroiro.github.io/car-market-analytics/
 
 ![1](https://github.com/user-attachments/assets/8fa6e3c2-34a8-4835-b887-cbf6adeebe00)
 ![2](https://github.com/user-attachments/assets/0b849369-60c2-47da-9f25-e070bcad77c0)
