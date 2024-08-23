@@ -19,7 +19,7 @@ Welcome to the Car Market Analytics website! This application is a comprehensive
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Introduction
 
